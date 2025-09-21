@@ -1,4 +1,4 @@
-#  🧮 Calculator Using React [Live Demo](https://bola-nabil.github.io/javascript-calculator/)
+#  🧮 Calculator Using React [Live Demo](https://bola-nabil.github.io/calculator-react/)
 
 ## 📖 Description
 This project is a **simple calculator application** built with **React**.

@@ -1,6 +1,6 @@
 {
-  "homepage": "https://bola-nabil.github.io/javascript-calculator",
-  "name": "javascript-calculator",
+  "homepage": "https://bola-nabil.github.io/calculator-react/",
+  "name": "calculator-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
